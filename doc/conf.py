@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Example'
-copyright = 'workshop participant'
-author = 'workshop participant'
+project = 'FULLvignette'
+copyright = '2025, Maria Persico'
+author = 'Maria Persico'
 release = '0.1'
 
 
