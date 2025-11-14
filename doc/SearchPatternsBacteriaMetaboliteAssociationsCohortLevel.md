@@ -1,4 +1,4 @@
-# In the Search of `Bacteria Metabolite Associations` Patterns at Cohort Level
+# In the Search of `Bacteria Metabolite Associations` Patterns at Cohort Level.
 
 ## Prerequisites and synopsis: the `wS` Matrix and `Transition categories` Matrix
 
