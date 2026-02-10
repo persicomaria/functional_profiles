@@ -3,9 +3,11 @@
 KofamKOALA (often referred to as KOfam) is a KEGG Ortholog (KO) assignment tool that identifies the function of gene/protein sequences 
 by comparing them against a database of profile Hidden Markov Models (pHMMs).
 The basic principles of Kofam are: 
-## Profile HMM Database (KOfam): Instead of using simple sequence alignment (like BLAST), Kofam uses a library of HMM profiles, where each profile represents a 
+## Profile HMM Database (KOfam)
+ Instead of using simple sequence alignment (like BLAST), Kofam uses a library of HMM profiles, where each profile represents a 
 specific KO family (a group of orthologous genes).
-## Adaptive Score Thresholds: Each pHMM in the database has a specific, pre-computed score threshold (``T``).
+## Adaptive Score Thresholds
+ Each pHMM in the database has a specific, pre-computed score threshold (``T``).
  These thresholds are not universal; they are individually determined for each KO family to maximize the balance between sensitivity and specificity.
 ## HMMER/hmmsearch
 Kofam utilizes hmmsearch to compute bit scores, which measure the similarity between query sequences and the HMM profiles.
