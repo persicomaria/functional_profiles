@@ -1,4 +1,4 @@
 # Documentation example
 
-We use this example in the lesson
-[How to document your research software](https://coderefinery.github.io/documentation/).
+Detailed documentation is available here
+[detailed documantation](https://persicomaria.github.io/functional_profiles/index.html).
