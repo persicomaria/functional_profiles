@@ -1,7 +1,7 @@
 # A simple case study
 Imagine you want to derive for a list of microbial strains of interest a list of files where the functional information for each microbe in your input list is stored in a computer readable format.
 Sometime interesting group of micropbial strains are depicted in one of the Figures of the associated publication. 
-Here an example! Tthe ``tree of microbial strains`` depicted in the Figure is taken from 
+Here an example! The ``tree of microbial strains`` depicted in the Figure is taken from 
 Tanoue, Takeshi, et al.
 "A Defined Commensal Consortium Elicits CD8 T Cells and Anti-Cancer Immunity.” 
 Nature, vol. 565, no. 7741, Jan. 2019, pp. 600–05. 
